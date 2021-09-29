@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinnyNoNyVin
 - 👀 I’m interested in Minecraft Things... (Like: Servers,Plugins,AntiCheats and also Hacked Clients)
 - 🌱 I’m currently learning Java and JS
-- 💞️ I’m looking to collaborate on DropClient (Cheat & Crash Client)
+- 💞️ I’m looking to collaborate on NetClient (Cheat & Crash Client)
 - 📫 Reach me On Discord: https://discord.gg/HvBXUwPaWk
